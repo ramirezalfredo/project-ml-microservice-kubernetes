@@ -1,4 +1,4 @@
-[![<ORG_NAME>](https://circleci.com/github/ramirezalfredo/project-ml-microservice-kubernetes.svg?style=svg)](https://app.circleci.com/pipelines/github/ramirezalfredo)
+[![ramirezalfredo](https://circleci.com/github/ramirezalfredo/project-ml-microservice-kubernetes.svg?style=svg)](https://app.circleci.com/pipelines/github/ramirezalfredo/project-ml-microservice-kubernetes)
 
 ## Project Overview
 
